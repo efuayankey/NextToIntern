@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextToIntern (N2I) 🎓
 
-## Getting Started
+> **Connect. Prepare. Succeed.**  
+> The ultimate internship prep and networking platform for Lehigh University students.
 
-First, run the development server:
+## 🚀 What is NextToIntern?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+NextToIntern is a community-driven platform designed specifically for **Lehigh University students** to help them succeed in their internship journey. Whether you're targeting tech, consulting, finance, or any other field, N2I connects you with like-minded peers to prepare together.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features (Coming Soon)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 🤝 **Find Prep Partners**
+- Match with students based on career goals (SWE, Consulting, PM, Finance)
+- Study together for technical interviews
+- Practice case studies and behavioral questions
+- Coordinate schedules and availability
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 💼 **Share Opportunities**
+- Post internship openings you discover
+- Share application deadlines and tips
+- Discuss company cultures and interview experiences
+- Get insider insights from upperclassmen
 
-## Learn More
+### 🏆 **Gamified Engagement**
+- Earn points through community participation
+- Level up from Freshman to Senior status
+- Leaderboards and achievement badges
+- Recognition for helpful contributions
 
-To learn more about Next.js, take a look at the following resources:
+### 🎯 **Lehigh-Specific Features**
+- **@lehigh.edu email verification** for authentic community
+- Integration with Lehigh career fair schedule
+- Alumni network connections
+- Local and regional internship focus
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Frontend**: Next.js 14 with App Router
+- **Styling**: Tailwind CSS
+- **Authentication**: Firebase Auth
+- **Database**: Cloud Firestore
+- **Real-time**: Firebase Realtime Database
+- **Deployment**: Vercel
+- **Icons**: Lucide React
 
-## Deploy on Vercel
+## 🎓 Target Audience
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Lehigh University students** across all majors:
+- Computer Science & Engineering
+- Business & Finance  
+- Marketing & Communications
+- Liberal Arts & Sciences
+- And more!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚧 Development Status
+
+**Current Phase**: MVP Development
+- [x] Project initialization
+- [x] Tech stack setup
+- [ ] Firebase configuration
+- [ ] User authentication with Lehigh email validation
+- [ ] Student onboarding flow
+- [ ] Discussion feed and posting system
+- [ ] Points and leveling system
+- [ ] Partner matching algorithm
+- [ ] Direct messaging
+- [ ] Company-specific channels
+
+## 🔥 Why NextToIntern?
+
+The internship process can be overwhelming and isolating. NextToIntern creates a supportive community where Lehigh students can:
+
+- **Learn from each other's experiences**
+- **Share valuable opportunities** 
+- **Prepare together** for interviews and applications
+- **Build lasting professional networks**
+- **Increase their chances of landing dream internships**
+
+## 🎯 Our Mission
+
+To democratize internship success by fostering collaboration, knowledge sharing, and peer support within the Lehigh University community.
+
+## 📱 Getting Started
+
+*Instructions for setup and usage will be added as development progresses.*
+
+## 🤝 Contributing
+
+This project is currently in early development. Interested in contributing? Reach out!
+
+## 📞 Contact
+
+Built with ❤️ for the Lehigh University community.
+
+---
+
+**Ready to take your internship game to the next level?** 🚀
