@@ -86,7 +86,7 @@ To democratize internship success by fostering collaboration, knowledge sharing,
 
 ## 🤝 Contributing
 
-This project is currently in early development. Interested in contributing? Reach out!
+This project is currently in early development. Interested in contributing? Reach out to me at efy228@lehigh.edu !
 
 ## 📞 Contact
 
